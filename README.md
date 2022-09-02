@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💡   A passionate front-end developer from Egypt and I am interested in web development with High Vision and Forward-Thinking.
-🎓  Innovative use of Technology, Effective Problem Solving Skills,and Outstanding Interpersonal Skills.
-💻  I've good knowledge in Frontend Development as HTML, CSS , JavaScript ,TypeScript, Redux and React JS .
-🎓  I am studying at I Tech School For Applied Technology (Software Engineering).
+<h2>💡   A passionate front-end developer from Egypt and I am interested in web development with High Vision and Forward-Thinking.</h2>
+<h2>🎓  Innovative use of Technology, Effective Problem Solving Skills,and Outstanding Interpersonal Skills.</h2>
+<h2>💻  I've good knowledge in Frontend Development as HTML, CSS , JavaScript ,TypeScript, Redux and React JS .</h2>
+<h2>🎓  I am studying at I Tech School For Applied Technology (Software Engineering).</h2>
