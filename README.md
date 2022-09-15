@@ -9,7 +9,7 @@
 🎓 &nbsp;I am studying at I Tech School For Applied Technology (Software Engineering).\
 ✉️ &nbsp;You can shoot me an email at basouny85@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Resume](https://drive.google.com/file/d/1ne9Sp7nCToUb1rQtA2vBdgSf9_gflvEi/view?usp=sharing <br>
-🌏 &nbsp;You can check my [portfolio](https://a-basuony.github.io/portfolio).
+🌏 &nbsp;You can check my [portfolio](https://a-basuony.github.io/my-portfolio/).
 <br>✍️ &nbsp;In my free time, I pursue Reading Books .
 ### 🛠 &nbsp;Tech Stack
 ###### Prgoramming Languages :
