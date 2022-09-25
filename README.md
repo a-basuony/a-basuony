@@ -35,6 +35,6 @@
 </a>
 </p>
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=omar-hosny1" alt="visitor badge"/>
-<a href="https://www.linkedin.com/in/omar-hosny-68a712208/"><img src="https://img.shields.io/badge/-OmarHosny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed basouny" alt="visitor badge"/>
+<a href="https://www.linkedin.com/in/ahmed-basuoney-68b432242/"><img src="https://img.shields.io/badge/-OmarHosny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
