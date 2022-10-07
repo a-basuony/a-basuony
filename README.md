@@ -11,7 +11,7 @@
 📄 &nbsp; Please have a look at my [Resume](https://drive.google.com/file/d/1ne9Sp7nCToUb1rQtA2vBdgSf9_gflvEi/view?usp=sharing <br>
 🌏 &nbsp;You can check my [portfolio](https://a-basuony.github.io/my-portfolio/).
 <br>✍️ &nbsp;In my free time, I pursue Reading Books .
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack.
 ###### Prgoramming Languages :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
