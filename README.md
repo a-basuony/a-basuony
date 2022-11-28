@@ -36,9 +36,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omar-hosny1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omar-hosny1&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/a-basuony">
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-basuony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-basuony&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
