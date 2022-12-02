@@ -11,7 +11,7 @@
 
 💡 &nbsp; A passionate front-end developer from Egypt and I am interested in web development with High Vision and Forward-Thinking.\
 🎓 &nbsp;Innovative use of Technology, Effective Problem Solving Skills,and Outstanding Interpersonal Skills.\
-💻 &nbsp;I've good knowledge in Frontend Development as HTML, CSS , JavaScript ,TypeScript, Redux and React JS .\
+💻 &nbsp;I've good knowledge in Frontend Development as HTML, CSS , JavaScript ,TypeScript, Redux, ReactJS and Nextjs .\
 🎓 &nbsp;I am studying at I Tech School For Applied Technology (Software Engineering).\
 ✉️ &nbsp;You can shoot me an email at basouny85@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Resume](https://drive.google.com/file/d/1Tc4Sgn4BI2gCSw_FlnzM0m_cia3k1Gid/view?usp=sharing )<br>
