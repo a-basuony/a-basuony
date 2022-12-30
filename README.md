@@ -1,6 +1,6 @@
 <p align="center" width="100%"><img src='https://media.giphy.com/media/Q9Z6ASHH713qOF2Gtv/giphy.gif' align="center" width="100%"/></p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahmed Basouny</h1>
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahmed Basouny</h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
