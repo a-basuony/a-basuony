@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Tech Stack.
 ###### Prgoramming Languages :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
 ###### Frontend Technology :
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) &nbsp;
