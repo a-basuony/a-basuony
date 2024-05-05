@@ -3,8 +3,8 @@
 ## 👨🏻‍💻 &nbsp;About Me  
 
 <p align="center"  height="35">
-  <img src="https://github.com/a-basuony/a-basuony/assets/99911074/b9484d7a-e84d-43f5-aae2-22efa996c570"  height="35">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+ <p align="center"> <img src="https://github.com/a-basuony/a-basuony/assets/99911074/b9484d7a-e84d-43f5-aae2-22efa996c570" width="150" height="35"> </p>
+  <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" ></a> </p>
 </p> 
 
 
