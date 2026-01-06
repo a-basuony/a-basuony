@@ -93,5 +93,5 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-basuoney-68b432242/"><img src="https://img.shields.io/badge/-Ahmed basouny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-basuony-0654202a4/"><img src="https://img.shields.io/badge/-Ahmed basouny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
