@@ -7,16 +7,17 @@
   <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" ></a> </p>
 </p> 
 
+💡 &nbsp; A passionate MERN Stack Developer from Egypt with a forward-thinking mindset and strong interest in building scalable web applications.  
+🎓 &nbsp; I leverage modern technologies to create clean, efficient, and user-focused solutions, with solid problem-solving and communication skills.  
+💻 &nbsp; Experienced in **MongoDB, Express.js, React.js, and Node.js**, with strong knowledge of HTML, CSS, JavaScript, TypeScript, Redux, Next.js, REST APIs, and modern frontend architecture.  
+🚀 &nbsp; Skilled in building full-stack applications including authentication, dashboards, APIs, database design, and performance optimization.  
+🎓 &nbsp; Currently studying at **I Tech School for Applied Technology** (Software Engineering).  
+✉️ &nbsp; Reach me at **ahmed.basouny.dev@gmail.com** — I’ll respond as soon as possible.  
+📄 &nbsp; View my [Resume](https://drive.google.com/file/d/1bDp0MixDoqsXUeR2NCg1YrXBKabKdtXH/view?usp=sharing).  
+🌏 &nbsp; Explore my [Portfolio](https://a-basuony.github.io/my-portfolio).  
+✍️ &nbsp; In my free time, I enjoy reading books and continuously improving my technical skills.  
+⚡ Fun fact: I use tabs over spaces.
 
-💡 &nbsp; A passionate front-end developer from Egypt, I'm interested in web development with a high vision and forward-thinking mindset.\
-🎓 &nbsp;I make innovative use of technology, possess effective problem-solving skills, and have outstanding interpersonal skills.\
-💻 &nbsp;I have strong knowledge in frontend development with expertise in HTML, CSS, JavaScript, TypeScript, Redux, ReactJS, and Next.js.\
-🎓 &nbsp;Currently studying at I Tech School For Applied Technology (Software Engineering).\
-✉️ &nbsp;You can reach me at ahmed.basouny.dev@gmail.com. I'll try to respond as soon as possible.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1bDp0MixDoqsXUeR2NCg1YrXBKabKdtXH/view?usp=sharing).\
-🌏 &nbsp;Check out my [portfolio](https://a-basuony.github.io/my-portfolio).\
-✍️ &nbsp;In my free time, I enjoy reading books.\
-⚡ Fun fact: I use tabs over spaces  
 
 ## 🛠 &nbsp;Tech Stack
 
