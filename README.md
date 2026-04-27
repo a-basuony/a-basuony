@@ -13,7 +13,7 @@
 🚀 &nbsp; Skilled in building full-stack applications including authentication, dashboards, APIs, database design, and performance optimization.  
 🎓 &nbsp; Currently studying at **I Tech School for Applied Technology** (Software Engineering).  
 ✉️ &nbsp; Reach me at **ahmed.basouny.dev@gmail.com** — I’ll respond as soon as possible.  
-📄 &nbsp; View my [Resume](https://drive.google.com/file/d/1-pNo9ZgmlLwov2GDJ8eKn6dDG_9LMDoP/view?usp=sharing).  
+📄 &nbsp; View my [Resume](https://drive.google.com/file/d/1pDZUrN0vgukGKL-uaD6ttyO30-ajXXN4/view).  
 🌏 &nbsp; Explore my [Portfolio](https://ahmed-basuony.vercel.app/).  
 ✍️ &nbsp; In my free time, I enjoy reading books and continuously improving my technical skills.  
 ⚡ Fun fact: I use tabs over spaces.
