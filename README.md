@@ -14,27 +14,6 @@
 </p>
 📞 &nbsp; Contact me: ahmed.basouny.dev@gmail.com | +966 51 186 1442
 
-## 🚀 Featured projects
-
-### [Dardasha — Real-Time Chat & Language Exchange](https://github.com/a-basuony/Dardasha_real_time_chat_frontend)
-
-React 19 + Stream Chat/Video, friend requests, onboarding, responsive UI and a separate Express/MongoDB API.  
-[**Try the demo**](https://dardasha-real-time-chat-frontend.vercel.app/) · [Frontend source](https://github.com/a-basuony/Dardasha_real_time_chat_frontend) · [Backend source](https://github.com/a-basuony/Dardasha_real_time_chat_backend)
-
-### [Dev Events — Next.js 16 Event Platform](https://github.com/a-basuony/Dev_Events)
-
-A developer-events demo using Next.js App Router, TypeScript and MongoDB.  
-[**Try the demo**](https://dev-events-next-js-16-six.vercel.app/) · [Browse source](https://github.com/a-basuony/Dev_Events)
-
-### [Full-Stack E-Commerce](https://github.com/a-basuony/E-Commerce-Full-Stack-MERN)
-
-MERN e-commerce demo featuring authentication, product management, an admin dashboard and Stripe checkout integration.  
-[**Browse source**](https://github.com/a-basuony/E-Commerce-Full-Stack-MERN)
-
-Have a reproducible bug or improvement? Please open an issue in the relevant repository. Feedback and useful pull requests are welcome.
-
----
-
 ## 👨🏻‍💻 &nbsp;About Me  
 
 <p align="center">
