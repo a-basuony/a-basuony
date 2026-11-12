@@ -35,61 +35,44 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-### Frontend Technologies
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react-query)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=material-ui)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
+### Frontend
 
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
-![RBAC](https://img.shields.io/badge/-RBAC-05122A?style=flat)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat)&nbsp;
+<p>
+  <img height="27" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img height="27" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img height="27" alt="React" src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img height="27" alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+  <img height="27" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0B1220?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img height="27" alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-0B1220?style=flat-square&logo=redux&logoColor=764ABC" />
+  <img height="27" alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
+  <img height="27" alt="HTML5" src="https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img height="27" alt="CSS3" src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css&logoColor=1572B6" />
+</p>
 
-### Tools & Integrations
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary)&nbsp;
-![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+### Backend & Databases
 
-## MERN Stack   
+<p>
+  <img height="27" alt="Node.js" src="https://img.shields.io/badge/Node%2Ejs-0B1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img height="27" alt="Express.js" src="https://img.shields.io/badge/Express%2Ejs-0B1220?style=flat-square&logo=express&logoColor=FFFFFF" />
+  <img height="27" alt="NestJS" src="https://img.shields.io/badge/NestJS-0B1220?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img height="27" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img height="27" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img height="27" alt="TypeORM" src="https://img.shields.io/badge/TypeORM-0B1220?style=flat-square&logo=typeorm&logoColor=FE0803" />
+</p>
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+### Tools & DevOps
+
+<p>
+  <img height="27" alt="Git" src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" />
+  <img height="27" alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=FFFFFF" />
+  <img height="27" alt="Docker" src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img height="27" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img height="27" alt="Postman" src="https://img.shields.io/badge/Postman-0B1220?style=flat-square&logo=postman&logoColor=FF6C37" />
+  <img height="27" alt="Vercel" src="https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF" />
+  <img height="27" alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-0B1220?style=flat-square&logo=cloudinary&logoColor=3448C5" />
+  <img height="27" alt="Stripe" src="https://img.shields.io/badge/Stripe-0B1220?style=flat-square&logo=stripe&logoColor=635BFF" />
+  <img height="27" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0B1220?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
