@@ -94,12 +94,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="460" alt="Verified public GitHub statistics with refresh date" src="./assets/github-public-stats.svg"/>
-  <img width="460" alt="Languages by code bytes across public non-forked repositories" src="./assets/github-public-languages.svg"/>
+  <img width="390" alt="GitHub public statistics: stars, pull requests, repositories, and issues" src="./assets/github-public-stats.svg" />
+  <img width="390" alt="Programming languages ranked by public source-code bytes" src="./assets/github-public-languages.svg" />
 </p>
 
 <p align="center">
-  <sub>Source: GitHub REST API · Public activity only · Updated automatically every day (UTC) using <a href="./.github/workflows/update-public-stats.yml">GitHub Actions</a>. Private activity and unverifiable lifetime commit totals are intentionally excluded. Language percentages reflect code bytes, not skill level.</sub>
+  <sub>Live source: GitHub API · Public activity only · <a href="./.github/workflows/update-public-stats.yml">Refreshed daily</a> · Language share is based on code bytes, not skill level.</sub>
 </p>
 
 <p align="center">
