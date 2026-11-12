@@ -1,0 +1,41 @@
+name: Refresh verified public GitHub stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-public-stats.yml"
+      - "scripts/update-public-stats.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Generate transparent, source-backed statistics
+        run: node scripts/update-public-stats.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: a-basuony
+      - name: Commit changed SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-public-stats.svg assets/github-public-languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh public GitHub statistics [skip ci]"
+            git push
+          fi
