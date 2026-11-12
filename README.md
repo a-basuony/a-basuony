@@ -94,10 +94,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/a-basuony">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-basuony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-basuony&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img width="460" alt="Verified public GitHub statistics with refresh date" src="./assets/github-public-stats.svg"/>
+  <img width="460" alt="Languages by code bytes across public non-forked repositories" src="./assets/github-public-languages.svg"/>
+</p>
+
+<p align="center">
+  <sub>Source: GitHub REST API · Public activity only · Updated automatically every day (UTC) using <a href="./.github/workflows/update-public-stats.yml">GitHub Actions</a>. Private activity and unverifiable lifetime commit totals are intentionally excluded. Language percentages reflect code bytes, not skill level.</sub>
 </p>
 
 <p align="center">
