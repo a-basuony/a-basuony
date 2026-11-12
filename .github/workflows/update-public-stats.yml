@@ -30,6 +30,19 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: a-basuony
+      - name: Validate SVG XML before publication
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          expected = ("assets/github-public-stats.svg", "assets/github-public-languages.svg")
+          for item in expected:
+              path = Path(item)
+              tree = ET.parse(path)
+              assert tree.getroot().tag == "{http://www.w3.org/2000/svg}svg", item
+              print(f"Validated: {path}")
+          PY
       - name: Commit changed SVGs
         run: |
           git config user.name "github-actions[bot]"
