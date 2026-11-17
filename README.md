@@ -114,6 +114,14 @@ A snapshot of technologies I've worked with across full-stack development, testi
 </p>
 
 <p align="center">
+  <img width="790" alt="Full-stack technologies organized into frontend, backend, databases, DevOps, testing, and integrations" src="./assets/github-fullstack-technologies.svg" />
+</p>
+
+<p align="center">
+  <sub>Technology overview: curated from project experience; not automatic GitHub language statistics or skill percentages.</sub>
+</p>
+
+<p align="center">
   <sub>Live source: GitHub API · Public activity only · <a href="./.github/workflows/update-public-stats.yml">Refreshed daily</a> · Language share is based on code bytes, not skill level.</sub>
 </p>
 
