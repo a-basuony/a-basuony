@@ -35,43 +35,75 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+A snapshot of technologies I've worked with across full-stack development, testing, and deployment.
+
 ### Frontend
 
 <p>
   <img height="27" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img height="27" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img height="27" alt="React" src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img height="27" alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-  <img height="27" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0B1220?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img height="27" alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-0B1220?style=flat-square&logo=redux&logoColor=764ABC" />
-  <img height="27" alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
+  <img height="27" alt="Next.js" src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
   <img height="27" alt="HTML5" src="https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img height="27" alt="CSS3" src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css&logoColor=1572B6" />
+  <img height="27" alt="CSS3" src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img height="27" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0B1220?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img height="27" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0B1220?style=flat-square&logo=mui&logoColor=007FFF" />
+  <img height="27" alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-0B1220?style=flat-square" />
+  <img height="27" alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-0B1220?style=flat-square&logo=daisyui&logoColor=5A0EF8" />
+  <img height="27" alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-0B1220?style=flat-square&logo=redux&logoColor=764ABC" />
+  <img height="27" alt="Zustand" src="https://img.shields.io/badge/Zustand-0B1220?style=flat-square" />
+  <img height="27" alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" />
 </p>
 
-### Backend & Databases
+### Backend & APIs
 
 <p>
-  <img height="27" alt="Node.js" src="https://img.shields.io/badge/Node%2Ejs-0B1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-  <img height="27" alt="Express.js" src="https://img.shields.io/badge/Express%2Ejs-0B1220?style=flat-square&logo=express&logoColor=FFFFFF" />
+  <img height="27" alt="Node.js" src="https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img height="27" alt="Express.js" src="https://img.shields.io/badge/Express.js-0B1220?style=flat-square&logo=express&logoColor=FFFFFF" />
   <img height="27" alt="NestJS" src="https://img.shields.io/badge/NestJS-0B1220?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img height="27" alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0B1220?style=flat-square" />
+  <img height="27" alt="JWT" src="https://img.shields.io/badge/JWT-0B1220?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" />
+  <img height="27" alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-0B1220?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+  <img height="27" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0B1220?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+</p>
+
+### Databases & ORM
+
+<p>
   <img height="27" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img height="27" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img height="27" alt="SQLite" src="https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=003B57" />
+  <img height="27" alt="Mongoose" src="https://img.shields.io/badge/Mongoose-0B1220?style=flat-square&logo=mongoose&logoColor=880000" />
   <img height="27" alt="TypeORM" src="https://img.shields.io/badge/TypeORM-0B1220?style=flat-square&logo=typeorm&logoColor=FE0803" />
 </p>
 
-### Tools & DevOps
+### DevOps & Deployment
 
 <p>
+  <img height="27" alt="Docker" src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img height="27" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0B1220?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img height="27" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0B1220?style=flat-square" />
+  <img height="27" alt="Vercel" src="https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF" />
   <img height="27" alt="Git" src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032" />
   <img height="27" alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=FFFFFF" />
-  <img height="27" alt="Docker" src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED" />
+</p>
+
+### Testing & Code Quality
+
+<p>
+  <img height="27" alt="Jest" src="https://img.shields.io/badge/Jest-0B1220?style=flat-square&logo=jest&logoColor=C21325" />
+  <img height="27" alt="Playwright" src="https://img.shields.io/badge/Playwright-0B1220?style=flat-square&logo=playwright&logoColor=2EAD33" />
+  <img height="27" alt="ESLint" src="https://img.shields.io/badge/ESLint-0B1220?style=flat-square&logo=eslint&logoColor=4B32C3" />
+  <img height="27" alt="Prettier" src="https://img.shields.io/badge/Prettier-0B1220?style=flat-square&logo=prettier&logoColor=F7B93E" />
+</p>
+
+### Tools & Integrations
+
+<p>
   <img height="27" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
   <img height="27" alt="Postman" src="https://img.shields.io/badge/Postman-0B1220?style=flat-square&logo=postman&logoColor=FF6C37" />
-  <img height="27" alt="Vercel" src="https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF" />
   <img height="27" alt="Cloudinary" src="https://img.shields.io/badge/Cloudinary-0B1220?style=flat-square&logo=cloudinary&logoColor=3448C5" />
   <img height="27" alt="Stripe" src="https://img.shields.io/badge/Stripe-0B1220?style=flat-square&logo=stripe&logoColor=635BFF" />
-  <img height="27" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-0B1220?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
