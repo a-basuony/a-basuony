@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="613" viewBox="0 0 920 613" role="img" aria-labelledby="title desc">
+<title id="title">Full-stack technologies</title><desc id="desc">Curated list of frontend, backend, database, DevOps, testing, and integration technologies. No proficiency percentages are claimed.</desc>
+<rect x="1" y="1" width="918" height="611" rx="18" fill="#0b1220" stroke="#2a4059" stroke-width="2"/>
+<rect x="22" y="23" width="6" height="44" rx="3" fill="#38bdf8"/>
+<text x="42" y="38" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#38bdf8">GITHUB / TECH STACK</text>
+<text x="42" y="64" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#f8fafc">Full-stack technologies</text>
+<text x="22" y="88" font-family="Arial,sans-serif" font-size="12.5" fill="#94a3b8">Selected tools and frameworks used across projects · Grouped by area</text>
+<rect x="22" y="112" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="39" cy="139" r="5" fill="#38bdf8"/>
+<text x="52" y="145" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Frontend</text>
+<rect x="35" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">JavaScript</text>
+<rect x="170" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">TypeScript</text>
+<rect x="35" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">React</text>
+<rect x="170" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Next.js</text>
+<rect x="35" y="208" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="222.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">HTML5</text>
+<rect x="170" y="208" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="222.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">CSS3</text>
+<rect x="35" y="231" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="245.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Tailwind CSS</text>
+<rect x="170" y="231" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="245.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Material UI</text>
+<rect x="35" y="254" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="268.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">shadcn/ui</text>
+<rect x="170" y="254" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="268.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">DaisyUI</text>
+<rect x="35" y="277" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="291.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Redux Toolkit</text>
+<rect x="170" y="277" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="291.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Zustand</text>
+<rect x="35" y="300" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="314.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">TanStack Query</text>
+<rect x="318" y="112" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="335" cy="139" r="5" fill="#34d399"/>
+<text x="348" y="145" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Backend &amp; APIs</text>
+<rect x="331" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Node.js</text>
+<rect x="466" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="474" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Express.js</text>
+<rect x="331" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">NestJS</text>
+<rect x="466" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="474" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">REST APIs</text>
+<rect x="331" y="208" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="222.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">JWT</text>
+<rect x="466" y="208" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="474" y="222.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Socket.IO</text>
+<rect x="331" y="231" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="245.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">RabbitMQ</text>
+<rect x="614" y="112" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="631" cy="139" r="5" fill="#818cf8"/>
+<text x="644" y="145" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Databases &amp; ORM</text>
+<rect x="627" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="635" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">MongoDB</text>
+<rect x="762" y="162" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="770" y="176.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">PostgreSQL</text>
+<rect x="627" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="635" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">SQLite</text>
+<rect x="762" y="185" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="770" y="199.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Mongoose</text>
+<rect x="627" y="208" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="635" y="222.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">TypeORM</text>
+<rect x="22" y="349" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="39" cy="376" r="5" fill="#fbbf24"/>
+<text x="52" y="382" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">DevOps &amp; Deployment</text>
+<rect x="35" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Docker</text>
+<rect x="170" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">GitHub Actions</text>
+<rect x="35" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">CI/CD</text>
+<rect x="170" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Vercel</text>
+<rect x="35" y="445" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="43" y="459.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Git</text>
+<rect x="170" y="445" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="178" y="459.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">GitHub</text>
+<rect x="318" y="349" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="335" cy="376" r="5" fill="#e879f9"/>
+<text x="348" y="382" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Testing &amp; Quality</text>
+<rect x="331" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Jest</text>
+<rect x="466" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="474" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Playwright</text>
+<rect x="331" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="339" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">ESLint</text>
+<rect x="466" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="474" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Prettier</text>
+<rect x="614" y="349" width="282" height="224" rx="12" fill="#111e32" stroke="#273c58"/>
+<circle cx="631" cy="376" r="5" fill="#fb923c"/>
+<text x="644" y="382" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Tools &amp; Integrations</text>
+<rect x="627" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="635" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">VS Code</text>
+<rect x="762" y="399" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="770" y="413.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Postman</text>
+<rect x="627" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="635" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Cloudinary</text>
+<rect x="762" y="422" width="126" height="21" rx="6" fill="#1c2b43" stroke="#344861" stroke-width=".5"/>
+<text x="770" y="436.5" font-family="Arial,sans-serif" font-size="12.4" font-weight="500" fill="#dbeafe">Stripe</text>
+<text x="22" y="595" font-family="Arial,sans-serif" font-size="11" fill="#8192ab">CURATED SKILLS · NOT GITHUB LANGUAGE METRICS OR PROFICIENCY SCORES</text>
+</svg>
